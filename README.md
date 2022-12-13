@@ -1,2 +1,2 @@
-# star_patterns
-here you get every type of star patern code in python
+# BASICS OF PYTHON
+HERE YOU LEARN VARIABLE, SINGLE DATATYPE , MULTIPLE DATATYPE, PLACE HOLDERS IN STRING
