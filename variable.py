@@ -43,4 +43,3 @@ print('yashvant\nrajendra\npawar')           # output :- yashvant
 
 # here we saw how to assign value to a perticular varible,
 # how to print a variable and perform different operation
-
